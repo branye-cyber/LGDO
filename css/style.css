@@ -360,28 +360,19 @@ a {
 
 .menu9 .bouton,
 .menu10 .bouton {
-  cursor: pointer;
-  background: linear-gradient(to bottom right, #95cdff, #9356dc);
-  padding: 15px;
-  width: 150px;
-  text-align: center;
-  border-radius: 60px;
-  color: white;
-  font-size: 17px;
-
   position: relative;
-  left: 42%;
-  /* cursor: pointer;
+  left: 30%;
+  cursor: pointer;
   height: 70px;
-  width: 15%;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  width: 40%;
+  margin-top: 30px;
+  margin-bottom: 30px;
   background: linear-gradient(to bottom right, #95cdff, #9356dc);
   padding: 25px;
   text-align: center;
   border-radius: 60px;
   color: white;
-  font-size: 17px; */
+  font-size: 17px;
 }
 .menu9 .bouton a,
 .menu10 .bouton a {
