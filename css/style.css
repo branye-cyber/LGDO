@@ -360,7 +360,16 @@ a {
 
 .menu9 .bouton,
 .menu10 .bouton {
-  position: relative;
+  cursor: pointer;
+  background: linear-gradient(to bottom right, #95cdff, #9356dc);
+  padding: 15px;
+  width: 150px;
+  text-align: center;
+  border-radius: 60px;
+  color: white;
+  font-size: 17px;
+
+  /*position: relative;
   left: 42%;
   cursor: pointer;
   height: 70px;
@@ -372,7 +381,7 @@ a {
   text-align: center;
   border-radius: 60px;
   color: white;
-  font-size: 17px;
+  font-size: 17px; */
 }
 .menu9 .bouton a,
 .menu10 .bouton a {
