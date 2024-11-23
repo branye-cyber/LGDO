@@ -369,9 +369,9 @@ a {
   color: white;
   font-size: 17px;
 
-  /*position: relative;
+  position: relative;
   left: 42%;
-  cursor: pointer;
+  /* cursor: pointer;
   height: 70px;
   width: 15%;
   margin-top: 20px;
