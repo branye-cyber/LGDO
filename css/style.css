@@ -361,10 +361,10 @@ a {
 .menu9 .bouton,
 .menu10 .bouton {
   position: relative;
-  left: 30%;
+  left: 42%;
   cursor: pointer;
   height: 70px;
-  width: 40%;
+  width: 15%;
   margin-top: 30px;
   margin-bottom: 30px;
   background: linear-gradient(to bottom right, #95cdff, #9356dc);
